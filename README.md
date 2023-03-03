@@ -18,7 +18,7 @@ I am excited about the opportunities that lie ahead and am always open to connec
 </p>
 
 ## My Stats 🔥
-p align="center">
+<p align="center">
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000" />
   </a>
