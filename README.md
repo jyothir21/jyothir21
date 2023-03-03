@@ -13,10 +13,9 @@ I am excited about the opportunities that lie ahead and am always open to connec
 ## Programming Experience 💻🧠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js,html,css,git,github,gitlab,docker,vscode,discord,linkdin&perline=7" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js,html,css,git,github,gitlab,docker,vscode,discord,linkdin&perline=8" />
   </a>
 </p>
-<!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js,html,css,git,github,gitlab,docker,vscode,discord,linkdin)](https://skillicons.dev) -->
 
 ## Contact Me
 * __Email:__ kris.jyothir@gmail.com
