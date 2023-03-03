@@ -18,10 +18,9 @@ I am excited about the opportunities that lie ahead and am always open to connec
 </p>
 
 ## My Stats 🔥
-<p align="center">
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000)](https://git.io/streak-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## Contact Me
 * __Email:__ kris.jyothir@gmail.com
