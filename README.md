@@ -38,6 +38,7 @@ I am excited about the opportunities that lie ahead and am always open to connec
 * __Email:__ kris.jyothir@gmail.com
 * __Phone:__ (437)-224-3655
 * __LinkedIn:__ https://www.linkedin.com/in/jyothir-krishnan/
+* __Portfolio:__ https://jyothir21.github.io/Personal-Portfolio/
 
 <!--
 **jyothir21/jyothir21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
