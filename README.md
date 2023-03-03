@@ -13,7 +13,7 @@ I am excited about the opportunities that lie ahead and am always open to connec
 ## Programming Experience 💻🧠
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js,html,css,git,github,gitlab,docker,vscode,discord,linkdin)](https://skillicons.dev) -->
