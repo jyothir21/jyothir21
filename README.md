@@ -23,8 +23,15 @@ I am excited about the opportunities that lie ahead and am always open to connec
     <img src="http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000" />
   </a>
 </p>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000)](https://git.io/streak-stats)</br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&theme=vision-friendly-dark" />
+  </a>
+</p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000)](https://git.io/streak-stats)</br> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 ## Contact Me
