@@ -1,4 +1,4 @@
-### Hi there, I'm Jyothir 👋
+## Hi there, I'm Jyothir 👋
 
 Hello! I am a **Computer Science** student at the **University of Guelph**. I have always been fascinated by the world of technology and its endless possibilities, which led me to the field of software development with a particular interest in AI and Machine Learning.
 
@@ -8,7 +8,7 @@ Apart from my academic pursuits, I am very active within the community and enjoy
 
 I am excited about the opportunities that lie ahead and am always open to connecting with like-minded individuals in the tech community.
 
-### Contact Me
+## Contact Me
 * __Email:__ kris.jyothir@gmail.com
 * __Phone:__ (437)-224-3655
 * __LinkedIn:__ https://www.linkedin.com/in/jyothir-krishnan/
