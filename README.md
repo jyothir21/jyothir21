@@ -11,7 +11,12 @@ Apart from my academic pursuits, I am very active within the community and enjoy
 I am excited about the opportunities that lie ahead and am always open to connecting with like-minded individuals in the tech community.
 
 ## Programming Experience 💻🧠
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,linux,java,py,js,html,css,git,github,gitlab,docker,vscode,discord,linkdin)](https://skillicons.dev)
 
 ## Contact Me
 * __Email:__ kris.jyothir@gmail.com
