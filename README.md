@@ -17,6 +17,9 @@ I am excited about the opportunities that lie ahead and am always open to connec
   </a>
 </p>
 
+## My Stats 🔥
+https://github-readme-streak-stats.herokuapp.com/?user=jyothir21
+
 ## Contact Me
 * __Email:__ kris.jyothir@gmail.com
 * __Phone:__ (437)-224-3655
