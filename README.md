@@ -25,9 +25,9 @@ Feel free to connect anytime!
   </a>
 </p>
 
+<!--
 ---
 
-<!--
 ## GitHub Stats 🔥
 
 <p align="center">
