@@ -1,6 +1,6 @@
 ## Hi there, I'm Jyothir 👋
 
-![Banner](https://user-images.githubusercontent.com/102922010/222629904-379b606d-5049-41ba-a011-6f8dba4ff286.png)
+<img width="1584" height="396" alt="linkedin_banner_2026" src="https://github.com/user-attachments/assets/5c2a6ce7-9210-47e5-b518-6e35fefe0e21" />
 
 I am a **Computer Science student** at the **University of Guelph**, graduating in April 2026. Over the past few years I’ve developed a strong interest in **software engineering, game development, and machine learning**, and I love building systems that feel thoughtful, reliable, and user-focused.
 
