@@ -30,12 +30,19 @@ Feel free to connect anytime!
 ## GitHub Stats 🔥
 
 <p align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000" />
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&theme=vision-friendly-dark" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&theme=vision-friendly-dark" />
+  </a>
 </p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000)](https://git.io/streak-stats)</br> -->
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
