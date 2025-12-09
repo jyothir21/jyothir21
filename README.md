@@ -27,6 +27,7 @@ Feel free to connect anytime!
 
 ---
 
+<!--
 ## GitHub Stats 🔥
 
 <p align="center">
@@ -36,11 +37,7 @@ Feel free to connect anytime!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jyothir21&layout=compact&theme=vision-friendly-dark" />
 </p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jyothir21&theme=dark&background=000000" />
-</p>
-
+-->
 
 ---
 
