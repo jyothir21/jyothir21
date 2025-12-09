@@ -31,7 +31,7 @@ Feel free to connect anytime!
 
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=jyothir21&theme=dark&background=000000" />
+    [![Jyothir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothir21&show_icons=true&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   </a>
 </p>
 
