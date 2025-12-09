@@ -29,6 +29,9 @@ Feel free to connect anytime!
 
 ## GitHub Stats 🔥
 
+![Jyothir's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyothir21)
+
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jyothir21&show_icons=true&theme=vision-friendly-dark" />
 </p>
