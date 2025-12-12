@@ -46,5 +46,5 @@ Feel free to connect anytime!
 * **Email:** jkrishna@uoguelph.ca  
 * **Phone:** (437) 224-3655  
 * **LinkedIn:** https://www.linkedin.com/in/jyothir-krishnan/  
-* **Portfolio:** https://jyothir21.github.io/Portfolio/
+* **Portfolio:** https://jyothirkrishnan.com
 
